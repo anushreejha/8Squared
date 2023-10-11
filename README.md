@@ -1,4 +1,4 @@
-# <p align="center"> 8 SQUARED - A Game of Chess </p>
+# <p align="center"> 8 SQUARED - A Chess Game </p>
 
 ## About *8 SQUARED*
 
