@@ -1,16 +1,24 @@
-# <p align="center"> 8 SQUARED - A Chess Game </p>
+# 8 SQUARED 
 
-## About *8 SQUARED*
+## About
 
-8 SQUARED is a simple chess game built for 2 players. All moves of all the chess pieces have been incorporated and all you need is the knowledge of chess and a person to play with!
+8 SQUARED is a chess-like game developed using HTML, CSS, and JavaScript, allowing players to enjoy a simplified chess experience.
 
-<p align="center"> <img src=""C:\Users\Ajay Kumar Jha\OneDrive\Desktop\Programming\chessGame\chess_game.jpg" height="350" width="350" title="Chess Board"> </p>
+![Chess Board](chessBoard.png)
 
-## What You Need to Know
+## Features
 
-1. This game gives you indications and popups to inform you which player's turn it is.
-2. All chess pieces are fully functional and invalid moves cannot be performed.
-3. You need to drag and drop a piece to make a move.
-4. Kindly note that there are no warnings for check and checkmate operations and the game is under development. Other than that it is fully functional.
+- Drag-and-drop functionality for moving pieces.
+- Initial implementation of basic chess rules for pawns, knights, rooks, and more.
+- Dynamic player switching and turn display after each move.
 
-#### <p align="right"> *~Anushree Jha* </p>
+## Turn Display
+
+After every move, the game indicates whose turn it is. The display alternates between Player 1 and Player 2 (or Black and Red, based on your settings).
+
+## Getting Started
+
+To run the game locally:
+
+1. Clone this repository.
+2. Open `index.html` in your preferred web browser.
