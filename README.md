@@ -4,7 +4,7 @@
 
 8 SQUARED is a chess-like game developed using HTML, CSS, and JavaScript, allowing players to enjoy a simplified chess experience.
 
-![Chess Board](chessBoard.png)
+![Chess Board](8Squared/chessBoard.png)
 
 ## Features
 
